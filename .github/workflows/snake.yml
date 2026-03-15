@@ -3,7 +3,7 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 */12 * * *"
-  workflow_dispatch
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -13,7 +13,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
       - name: Generate snake animation
         uses: Platane/snk@v3
