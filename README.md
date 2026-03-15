@@ -51,15 +51,7 @@ Interesado en analizar sistemas, reproducir bugs y ejecutar pruebas automatizada
 
 ---
 
-<p align="center">
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAd/matrix.gif" width="500%">
-</p>
 
-<h1 align="center">Brandon Caracas</h1>
-
-<p align="center">
-Software Testing • Python • Linux • Docker
-</p>
 
 
 ---
