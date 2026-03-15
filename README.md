@@ -52,7 +52,7 @@ Interesado en analizar sistemas, reproducir bugs y ejecutar pruebas automatizada
 ---
 
 <p align="center">
-<img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="500"/>
+<img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" width="600"/>
 </p>
 
 
