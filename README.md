@@ -13,17 +13,17 @@ Interesado en analizar sistemas, reproducir bugs y ejecutar pruebas automatizada
 
 ---
 
-# 🚀 Sobre mí
+#  Sobre mí
 
-- 🧠 Ingeniería de Software
-- 🧪 Software Testing
-- 🐳 Docker
+-  Ingeniería de Software
+-  Software Testing
+-  Docker
 - 🐧 Kali Linux
 - ⚙️ Automatización de pruebas
 
 ---
 
-# 🛠️ Tecnologías
+# Tecnologías
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,docker,git,linux,vscode,github"/>
@@ -43,7 +43,7 @@ Interesado en analizar sistemas, reproducir bugs y ejecutar pruebas automatizada
 
 ---
 
-# 🔥 Actividad
+# Actividad
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brandon-caracas&theme=tokyonight"/>
@@ -61,18 +61,19 @@ Interesado en analizar sistemas, reproducir bugs y ejecutar pruebas automatizada
 
 ---
 
-# 🎯 Objetivo
+# Objetivo
 
 Desarrollar habilidades en **testing de software, automatización y análisis de sistemas**, contribuyendo a proyectos open source y experimentando con tecnologías modernas de ingeniería de software.
 
 ---
 
-⭐ En este perfil encontrarás proyectos relacionados con:
+ En mi perfil encontrarás proyectos relacionados con:
 
 - programación
 - testing
 - automatización
 - entornos Linux
+- y las experiencias que me faltan por aprender
 
 ---
 
