@@ -1,8 +1,9 @@
 # Brandon-
-<!-- BANNER -->
+
+<!-- MATRIX BANNER -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Brandon%20Caracas&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Matrix_Digital_rain_banner.gif" width="100%">
 </p>
 
 # 👨‍💻 Brandon Caracas
@@ -13,11 +14,11 @@ Interesado en analizar sistemas, reproducir bugs y ejecutar pruebas automatizada
 
 ---
 
-#  Sobre mí
+# Sobre mí
 
--  Ingeniería de Software
--  Software Testing
--  Docker
+- Ingeniería de Software
+- Software Testing
+- Docker
 - 🐧 Kali Linux
 - ⚙️ Automatización de pruebas
 
@@ -51,27 +52,16 @@ Interesado en analizar sistemas, reproducir bugs y ejecutar pruebas automatizada
 
 ---
 
-
-
-
----
-
 # Objetivo
 
 Desarrollar habilidades en **testing de software, automatización y análisis de sistemas**, contribuyendo a proyectos open source y experimentando con tecnologías modernas de ingeniería de software.
 
 ---
 
- En mi perfil encontrarás proyectos relacionados con:
+En mi perfil encontrarás proyectos relacionados con:
 
 - programación
 - testing
 - automatización
 - entornos Linux
 - y las experiencias que me faltan por aprender
-
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer"/>
-</p>
