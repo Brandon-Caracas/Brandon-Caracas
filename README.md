@@ -52,7 +52,13 @@ Interesado en analizar sistemas, reproducir bugs y ejecutar pruebas automatizada
 ---
 
 <p align="center">
-<img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" width="600"/>
+<img src="https://media.giphy.com/media/oOxSXI5D2cvc6kYSvw/giphy.gif" width="100%">
+</p>
+
+<h1 align="center">Brandon Caracas</h1>
+
+<p align="center">
+Software Testing • Python • Linux • Docker
 </p>
 
 
